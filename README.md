@@ -1,4 +1,7 @@
-# Study materials of various generative image models
+Study materials of various generative image models
+=====
+
+# Image Generation
 
 ## Auto Encoder
 
