@@ -36,3 +36,16 @@ Study materials of various generative image models
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ![generation samples of DCGAN](./samples/dcgan/generation-samples.png "Images generated with DCGAN")
+
+
+# Text Generation
+
+## Recurrent Neural Network ( LSTM, GRU, Bidirectional )
+
+<a href="https://colab.research.google.com/github/shishimaru/GenerativeAIModels/blob/main/text-generation/01-lstm-gru-bidirectional.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Recurrent Neural Network with Attention
+
+<a href="https://colab.research.google.com/github/shishimaru/GenerativeAIModels/blob/main/text-generation/02-rnn-attention.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
