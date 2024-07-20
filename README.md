@@ -45,7 +45,12 @@ Study materials of various generative image models
 <a href="https://colab.research.google.com/github/shishimaru/GenerativeAIModels/blob/main/text-generation/01-lstm-gru-bidirectional.ipynb" target="_blank">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+<a href="./text-generation/docs/text-generation-with-rnn.pdf" target="_blank">Details how RNN constructs Texts</a>
+
+
 ![generation flow by RNN](./text-generation/docs/rnn.png "Text Generation Flow by RNN")
+
+
 
 ## Recurrent Neural Network with Attention
 
