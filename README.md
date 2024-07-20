@@ -1,7 +1,7 @@
 Study materials of various generative image models
 =====
 
-# Image Generation
+# :shirt: Image Generation
 
 ## Auto Encoder
 
@@ -38,7 +38,7 @@ Study materials of various generative image models
 ![generation samples of DCGAN](./samples/dcgan/generation-samples.png "Images generated with DCGAN")
 
 
-# Text Generation
+# :memo: Text Generation
 
 ## Recurrent Neural Network ( LSTM, GRU, Bidirectional )
 
