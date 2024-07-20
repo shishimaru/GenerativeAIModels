@@ -26,8 +26,8 @@ Study materials of various generative image models
 <a href="https://colab.research.google.com/github/shishimaru/GenerativeAIModels/blob/main/image-generation/04-deep-convolutional-vae.ipynb" target="_blank">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-![latent vector of VAE](./samples/vae/latent-space.png "Latent Vector obtained by VAE")
-![generation samples of VAE](./samples/vae/generation-samples.png "Images generated with VAE")
+![latent vector of VAE](./image-generation/docs/vae/latent-space.png "Latent Vector obtained by VAE")
+![generation samples of VAE](./image-generation/docs/vae/generation-samples.png "Images generated with VAE")
 
 
 ## Deep Convolutional GAN ( Generative Adversarial Nets )
@@ -35,7 +35,7 @@ Study materials of various generative image models
 <a href="https://colab.research.google.com/github/shishimaru/GenerativeAIModels/blob/main/image-generation/05-deep-convolutional-gan.ipynb" target="_blank">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-![generation samples of DCGAN](./samples/dcgan/generation-samples.png "Images generated with DCGAN")
+![generation samples of DCGAN](./image-generation/docs/dcgan/generation-samples.png "Images generated with DCGAN")
 
 
 # :memo: Text Generation
@@ -44,6 +44,8 @@ Study materials of various generative image models
 
 <a href="https://colab.research.google.com/github/shishimaru/GenerativeAIModels/blob/main/text-generation/01-lstm-gru-bidirectional.ipynb" target="_blank">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+![generation flow by RNN](./text-generation/docs/rnn.png "Text Generation Flow by RNN")
 
 ## Recurrent Neural Network with Attention
 
