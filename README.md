@@ -51,3 +51,5 @@ Study materials of various generative image models
 
 <a href="https://colab.research.google.com/github/shishimaru/GenerativeAIModels/blob/main/text-generation/02-rnn-attention.ipynb" target="_blank">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+![Attention Mechanism](./text-generation/docs/attention.png "Attention Mechanism")
