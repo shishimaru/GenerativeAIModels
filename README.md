@@ -38,6 +38,22 @@ Study materials of various generative image models
 ![generation samples of DCGAN](./image-generation/docs/dcgan/generation-samples.png "Images generated with DCGAN")
 
 
+## Denoising Diffusion Model
+
+<a href="https://colab.research.google.com/github/shishimaru/GenerativeAIModels/blob/main/image-generation/06-denoising-diffusion-model.ipynb" target="_blank">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+![Epoch 1st of DDM training](./image-generation/docs/ddm/train-epoch1.png "Images generated with DDM during training")
+![Epoch 50th of DDM training](./image-generation/docs/ddm/train-epoch50.png "Images generated with DDM during training")
+
+### Image Interpolation with 2 initial gausian noises
+
+![Interpolation of Images](./image-generation/docs/ddm/image-interpolation.png "Interpolation of Images")
+
+
+
+
+
 # :memo: Text Generation
 
 ## Recurrent Neural Network ( LSTM, GRU, Bidirectional )
